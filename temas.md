@@ -9,7 +9,7 @@ Ideas de las cuales pueden surgir charlas:
 - Event Loop
 - C++ bindings
 - Buenas prácticas en producción
-- Node.js y ES6
+- Node.js y ES6, Typescript
 - Tooling
 - Load balancing
 - Express.js / Hapi.js / Kraken.js / Restify
